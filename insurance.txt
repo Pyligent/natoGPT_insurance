@@ -1,0 +1,281 @@
+what is the insurance:
+
+The insurance sector is made up of companies that offer risk management in the form of insurance contracts. The basic concept of insurance is that one party, the insurer, will guarantee payment for an uncertain future event. Meanwhile, another party, the insured or the policyholder, pays a smaller premium to the insurer in exchange for that protection on that uncertain future occurrence.
+
+insurance:
+The insurance industry is made up of different types of players operating in different spaces.
+
+life insurance:
+life insurance focus on legacy planning and replacing human capital value, health insurers cover medical costs, and property, casualty, or accident insurance is aimed at replacing the value of homes, cars, or valuables.
+
+Insurance companies:
+Insurance companies can be structured either as a traditional stock company with outside investors, or mutual companies where policyholders are the owners.
+
+Types of Insurance Companies:
+Not all insurance companies offer the same products or cater to the same customer base. Among the largest categories of insurance companies are accident and health insurers; property and casualty insurers; and financial guarantors. The most common types of personal insurance policies are auto, health, homeowners, and life. Most individuals in the United States have at least one of these types of insurance, and car insurance is required by law.
+
+Accident and health companies:
+Accident and health insurance companies are probably the most well-known. These include companies such as UnitedHealth Group, Anthem, Aetna and AFLAC, which are designed to help people who have been physically harmed.
+
+Life insurance companies :
+life insurance companies mainly issue policies that pay a death benefit as a lump sum upon the death of the insured to their beneficiaries. Life insurance policies may be sold as term life, which is less expensive and expires at the end of the term or permanent (typically whole life or universal life), which is more expensive but lasts a lifetime and carries a cash accumulation component. Life insurers may also sell long-term disability policies that replace the insured's income if they become sick or disabled. Well-known life insurers include Northwestern Mutual, Guardian, Prudential, and William Penn.
+
+Property and casualty companies:
+roperty and casualty companies (P&C) insure against accidents of non-physical harm. This can include lawsuits, damage to personal assets, car crashes and more. Large property and casualty insurers include State Farm, Nationwide and Allstate.
+
+Policy type:
+Businesses require special types of insurance policies that insure against specific types of risks faced by a particular business. For example, a fast-food restaurant needs a policy that covers damage or injury that occurs as a result of cooking with a deep fryer. An auto dealer is not subject to this type of risk but does require coverage for damage or injury that could occur during test drives.
+
+special policy type:
+There are also insurance policies available for very specific needs, such as kidnap and ransom (K&R), medical malpractice, and professional liability insurance, also known as errors and omissions insurance.
+
+reinsurance companies:
+Some companies engage in reinsurance to reduce risk. Reinsurance is insurance that insurance companies buy to protect themselves from excessive losses due to high exposure. Reinsurance is an integral component of insurance companies' efforts to keep themselves solvent and to avoid default due to payouts, and regulators mandate it for companies of a certain size and type.
+
+reinsurance:
+an insurance company may write too much hurricane insurance, based on models that show low chances of a hurricane inflicting a geographic area. If the inconceivable did happen with a hurricane hitting that region, considerable losses for the insurance company could ensue. Without reinsurance taking some of the risks off the table, insurance companies could go out of business whenever a natural disaster hits.
+
+
+stock insurance company:
+A stock insurance company is a corporation owned by its stockholders or shareholders, and its objective is to make a profit for them. Policyholders do not directly share in the profits or losses of the company. To operate as a stock corporation, an insurer must have a minimum of capital and surplus on hand before receiving approval from state regulators. Other requirements must also be met if the company's shares are publicly traded. Some well-known American stock insurers include Allstate, MetLife, and Prudential.
+
+mutual insurance company:
+A mutual insurance company is a corporation owned exclusively by the policyholders who are "contractual creditors" with a right to vote on the board of directors. Generally, companies are managed and assets (insurance reserves, surplus, contingency funds, dividends) are held for the benefit and protection of the policyholders and their beneficiaries.
+
+Insurance Float:
+One of the more interesting features of insurance companies is that they are essentially allowed to use their customers' money to invest for themselves. This makes them similar to banks, but investing happens to an even greater extent. This is sometimes referred to as "the float."
+
+
+Float:
+Float occurs when one party extends money to another party and does not expect repayment until after a circumstantial event. This mechanism essentially means insurance companies have a positive cost of capital. This distinguishes them from private equity funds, banks, and mutual funds. For investors in stock insurance companies (or policyholders in mutual companies), this means the potential for lower-risk, stable returns.
+
+annuity:
+The term "annuity" refers to an insurance contract issued and distributed by financial institutions with the intention of paying out invested funds in a fixed income stream in the future. Investors invest in or purchase annuities with monthly premiums or lump-sum payments. The holding institution issues a stream of payments in the future for a specified period of time or for the remainder of the annuitant's life. Annuities are mainly used for retirement purposes and help individuals address the risk of outliving their savings.
+
+Annuities:
+financial products that offer a guaranteed income stream, usually for retirees.
+
+The accumulation phase:
+the first stage of an annuity, whereby investors fund the product with either a lump sum or periodic payments. The annuitant begins receiving payments after the annuitization period for a fixed period or for the rest of their life. Annuities can be structured into different kinds of instruments, which gives investors flexibility. These products can be categorized into immediate and deferred annuities and may be structured as fixed or variable.
+
+How an Annuity Works:
+Annuities are designed to provide a steady cash flow for people during their retirement years and to alleviate the fears of outliving their assets. Since these assets may not be enough to sustain their standard of living, some investors may turn to an insurance company or other financial institution to purchase an annuity contract. As such, these financial products are appropriate for investors, who are referred to as annuitants, who want stable, guaranteed retirement income. Because invested cash is illiquid and subject to withdrawal penalties, it is not recommended for younger individuals or for those with liquidity needs to use this financial product.
+
+An annuity goes through several different phases and periods:
+The accumulation phase, the period of time when an annuity is being funded and before payouts begin. Any money invested in the annuity grows on a tax-deferred basis during this stage. The annuitization phase, which kicks in once payments commence.
+
+Immediate annuities:
+Immediate annuities are often purchased by people of any age who have received a large lump sum of money, such as a settlement or lottery win, and who prefer to exchange it for cash flows into the future. 
+
+Deferred annuities:
+Deferred annuities are structured to grow on a tax-deferred basis and provide annuitants with guaranteed income that begins on a date they specify.
+
+Annuity products:
+Annuity products are regulated by the Securities and Exchange Commission (SEC) and the Financial Industry Regulatory Authority (FINRA). Agents or brokers selling annuities need to hold a state-issued life insurance license, and also a securities license in the case of variable annuities. These agents or brokers typically earn a commission based on the notional value of the annuity contract.
+
+What Is a Surrender Period:
+The surrender period is the amount of time an investor must wait until they can withdraw funds from an annuity without facing a penalty. Surrender periods can be many years long, and withdrawing money before the end of the surrender period can result in a surrender charge, which is essentially a deferred sales fee. Generally, but not always, the longer the surrender period, the better the annuity’s other terms. The surrender period is the time frame in which an investor cannot withdraw funds from an annuity without paying a surrender fee. The surrender period can run several years, and annuitants can incur significant penalties if invested funds are withdrawn before that period has expired. Other financial products also contain a surrender period, such as B-share mutual funds and whole life insurance policies.
+
+Understanding Surrender Periods:
+Surrender periods are meant to discourage investors from canceling, typically long-term contracts. Though this might stop an investor from making an emotional, hasty decision in a cyclical market, it may also limit the investor's flexibility to move money out if assets aren't performing well. Conversely, surrender periods are generally not a problem for investors who don't need cash quickly or liquidity or those who are receiving above-market returns.
+
+Example of Surrender Periods:
+As a hypothetical example, assume you purchased a $10,000 annuity in 2022 with a surrender period that has a 6% surrender fee in the first year, declining by 1% every year after. If you closed your annuity in 2025, which is during the third year of the surrender period, you would pay a fee of 4% of the $10,000, or $400. The surrender period would end in 2029, at which point you could withdraw your $10,000 without paying a surrender fee. To avoid possible surrender fees, you should not put money into an annuity that you might need to withdraw during the surrender period.
+If you make additional investments or premium payments to the annuity, there could be a separate surrender period for each investment. Suppose you paid $5,000 into an annuity in 2022 and another $5,000 in 2023. Again, assume a six-year surrender period with a 6% fee that declines by 1% each year. If you withdrew the entire $10,000 in 2024, you would be in year 2 of the surrender period on your first $5,000 investment, so your fee would be 5%, or $250, but you would only be in year 1 of the surrender period on your second $5,000 investment, so your surrender fee would be 6%, or $300, for a total surrender fee of $550 to withdraw your $10,000.
+
+What Is a Rider:
+A rider is an insurance policy provision that adds benefits to or amends the terms of a basic insurance policy. Riders provide insured parties with additional coverage options, or they may even restrict or limit coverage. There is an additional cost if a party decides to purchase a rider. Most are low in cost because they involve minimal underwriting. A rider is also referred to as an insurance endorsement. It can be added to policies that cover life, homes, autos, and rental units.
+
+Understanding a Rider:
+Some policyholders have specific needs not covered by standard insurance policies, so riders help them create insurance products that meet those needs. Insurance companies offer supplemental insurance riders to customize policies by adding varying types of additional coverage. The benefits of insurance riders include increased savings from not purchasing a separate policy and the option to buy different coverage at a later date. 
+
+Example of rider:
+Say an insured person has a terminal illness and adds an accelerated death benefit rider on a life insurance policy. This rider would provide the insured with a cash benefit while living. The insured may use these funds how they wish, perhaps to improve their quality of life or to pay for medical and final expenses. When the insured passes away, their designated beneficiaries receive a reduced death benefit—the face value less the portion used under the accelerated death benefit rider. Buying an insurance rider is up to the insured party, who should weigh the cost against their individual needs. Although riders may sound appealing, they come at a cost—on top of the premiums for the policy itself. Certain homeowner insurance policies come with extra earthquake riders, but someone who doesn't live near a fault line probably doesn't need this additional coverage. Another thing to consider: a rider may duplicate coverage, so it's important to look over the basic insurance contract.
+
+Types of Riders:
+Riders come in various forms, including long-term care, term conversion, waiver of premiums, and exclusionary.
+
+Long-Term Care Rider:
+Long-term care (LTC) coverage is often available as a rider to a cash value insurance product such as universal, whole, or variable life insurance. A rider can address specific long-term care issues. The funds reduce the policy's death benefit when they are used. Designated beneficiaries receive the death benefit less the amount paid out under the long-term care rider.In some cases, the policyholder's needs may exceed the total benefit of the life insurance policy. So it may be more advantageous to purchase a stand-alone LTC policy. If the LTC rider is unused, the policyholder saves in costs when compared to purchasing a stand-alone LTC policy.
+
+Term Conversion Rider:
+Term life insurance provides coverage for a limited time, typically 10 to 30 years. Once the policy expires, the policyholder is not guaranteed new coverage at the same terms. The policyholder's medical condition may make it difficult or impossible to obtain another policy. A term conversion rider allows the policyholder to convert an existing term life insurance to permanent life insurance without a medical exam. This is typically favorable to young parents seeking to lock in coverage to protect their families in the future.
+
+
+Waiver of Premium Riders:
+This rider is generally available only when the policy begins and may not be available in every state. Under the waiver of premium rider, the insured party is relieved of premium payments if the policyholder becomes critically ill, disabled, or seriously injured. There may be certain requirements to add this rider, such as age limits and certain health requirements.
+
+Exclusionary Riders:
+Exclusionary riders restrict coverage under a policy for a specific event or condition. Exclusionary riders are mainly found in individual health insurance policies. For example, coverage can be restricted for a preexisting condition detailed in the policy provisions. As of September 2010, the Affordable Care Act (ACA) prohibited exclusionary riders from being applied to children. Exclusionary riders have not been permitted in any healthcare insurance since 2014.
+
+Example of a Rider:
+A typical homeowners insurance policy includes coverage for structural damage, personal property damage or loss, and personal liability coverage. However, each standard protection is also subject to coverage limits or restrictions. A rider broadens the standard coverage. For example, an expensive piece of jewelry can be protected by extending personal property coverage through a scheduled personal property rider. A homeowners policy may have a coverage limit of $50,000 for personal property, but it might also have a sub-limit of $1,500 for jewelry. If valuable jewelry is stolen or damaged by a fire, the policyholder would only be reimbursed up to $1,500 to help replace it. A rider would extend the reimbursement amount for certain valuable items.
+
+What Is a Rider in Insurance:
+An insurance rider is an adjustment or an add-on to a basic insurance policy. Riders are designed to provide additional benefit over the stated coverage in the basic policy. A rider is useful for tailoring an insurance policy to the precise needs of the insured entity.
+
+Does a Rider Cost More Money:
+A rider is added to an existing policy in exchange for a fee payable to the insurer.
+
+What Are the Benefits of a Rider:
+Riders allow insurance policies to be tailored to meet the needs of the policyholder. For example, a homeowner might need additional personal property insurance if they have certain valuable items, or they may need additional structural insurance if they live in a region where inclement weather is a threat to their home. Life insurance riders allow policyholders to purchase more insurance as they age. Doing so might be cheaper than going through the typical underwriting process required for a new policy. Also, some insurance policies allow for the accumulation of cash value for the policy on a tax-deferred basis.
+
+What Are Home Owners Insurance Riders:
+Riders for homeowners include the following: Scheduled personal property coverage. This rider extends coverage for valuables, such as jewelry and antiques, and protects them against additional risks that a standard homeowners policy does not cover, for example, loss or misplacement. Water backup coverage. A homeowner's policy may not cover water damage from a backed-up drain or sump pump. This type of rider would cover the cost of backed-up drains and water damage. 
+
+Building code coverage:
+If a home is not up to building code standards when damage occurs, the owner may have to pay out of pocket to bring the structure up to code. This type of rider will pay the additional cost of bringing the home up to code after a covered claim.
+
+Business property coverage:
+If you run a business out of your home, you may need additional coverage to protect business equipment or products stored in your home.
+
+Identify theft restoration coverage:
+Having your identity stolen can incur costs such as legal fees. This type of rider would ensure that the policyholder is reimbursed for any expenses should their identity be stolen.
+
+How Can I Drop an Insurance Rider:
+Most insurance companies will allow you to drop a rider from a policy simply by filling out a form that authorizes its removal.
+
+Fixed annuities:
+Fixed annuities provide regular periodic payments to the annuitant.
+
+Variable annuities:
+Variable annuities allow the owner to receive larger future payments if investments of the annuity fund do well and smaller payments if its investments do poorly, which provides for less stable cash flow than a fixed annuity but allows the annuitant to reap the benefits of strong returns from their fund's investments.
+
+Example of an Annuity:
+A life insurance policy is an example of a fixed annuity in which an individual pays a fixed amount each month for a pre-determined time period (typically 59.5 years) and receives a fixed income stream during their retirement years.An example of an immediate annuity is when an individual pays a single premium, say $200,000, to an insurance company and receives monthly payments, say $5,000, for a fixed time period afterward. The payout amount for immediate annuities depends on market conditions and interest rates. Annuities can be a beneficial part of a retirement plan, but annuities are complex financial vehicles. Because of their complexity, many employers don't offer them as part of an employee's retirement portfolio.
+
+Who Buys Annuities:
+Annuities are appropriate financial products for individuals seeking stable, guaranteed retirement income. Because the lump sum put into the annuity is illiquid and subject to withdrawal penalties, it is not recommended for younger individuals or for those with liquidity needs to use this financial product. Annuity holders cannot outlive their income stream, which hedges longevity risk.
+
+What Is a Non-Qualified Annuity:
+Annuities can be purchased with either pre-tax or after-tax dollars. A non-qualified annuity is one that has been purchased with after-tax dollars. A qualified annuity is one that has been purchased with pre-tax dollars. Qualified plans include 401(k) plans and 403(b) plans. Only the earnings of a non-qualified annuity are taxed at the time of withdrawal, not the contributions, as they are after-tax money.
+
+What Is an Annuity Fund:
+An annuity fund is the investment portfolio in which an annuity holder's funds are invested. The annuity fund earns returns, which correlate to the payout that an annuity holder receives. When an individual buys an annuity from an insurance company, they pay a premium. The premium is invested by the insurance company into an investment vehicle that contains stocks, bonds, and other securities, which is the annuity fund.
+
+What Is Insurance:
+Most people have some kind of insurance: for their car, their house, or even their life. Yet most of us don’t stop to think too much about what insurance is or how it works. Put simply, insurance is a contract, represented by a policy, in which a policyholder receives financial protection or reimbursement against losses from an insurance company. The company pools clients’ risks to make payments more affordable for the insured.
+
+Insurance policies:
+Insurance policies are used to hedge against the risk of financial losses, both big and small, that may result from damage to the insured or their property, or from liability for damage or injury caused to a third party.
+
+How Insurance Works:
+A multitude of different types of insurance policies is available, and virtually any individual or business can find an insurance company willing to insure them—for a price. The most common types of personal insurance policies are auto, health, homeowners, and life. Most individuals in the United States have at least one of these types of insurance, and car insurance is required by law.Businesses require special types of insurance policies that insure against specific types of risks faced by a particular business. For example, a fast-food restaurant needs a policy that covers damage or injury that occurs as a result of cooking with a deep fryer. An auto dealer is not subject to this type of risk but does require coverage for damage or injury that could occur during test drives.
+
+Insurance Policy Components:
+When choosing a policy, it is important to understand how insurance works. A firm understanding of these concepts goes a long way in helping you choose the policy that best suits your needs. For instance, whole life insurance may or may not be the right type of life insurance for you. Three components of any type of insurance are crucial: premium, policy limit, and deductible.
+
+Premium:
+A policy’s premium is its price, typically expressed as a monthly cost. The premium is determined by the insurer based on your or your business’s risk profile, which may include creditworthiness. for example, if you own several expensive automobiles and have a history of reckless driving, you will likely pay more for an auto policy than someone with a single midrange sedan and a perfect driving record. However, different insurers may charge different premiums for similar policies. So finding the price that is right for you requires some legwork.
+
+
+Policy Limit:
+The policy limit is the maximum amount that an insurer will pay under a policy for a covered loss. Maximums may be set per period (e.g., annual or policy term), per loss or injury, or over the life of the policy, also known as the lifetime maximum. Typically, higher limits carry higher premiums. For a general life insurance policy, the maximum amount that the insurer will pay is referred to as the face value, which is the amount paid to a beneficiary upon the death of the insured.
+
+Deductible:
+The deductible is a specific amount that the policyholder must pay out of pocket before the insurer pays a claim. Deductibles serve as deterrents to large volumes of small and insignificant claims.Deductibles can apply per policy or per claim, depending on the insurer and the type of policy. Policies with very high deductibles are typically less expensive because the high out-of-pocket expense generally results in fewer small claims.
+
+Health Insurance:
+With regard to health insurance, people who have chronic health issues or need regular medical attention should look for policies with lower deductibles. Though the annual premium is higher than a comparable policy with a higher deductible, less expensive access to medical care throughout the year may be worth the tradeoff.
+
+Home Insurance:
+Homeowners insurance (also known as home insurance) protects your home and possessions against damage or theft. Virtually all mortgage companies require borrowers to have insurance coverage for the full or fair value of a property (usually the purchase price) and won’t make a loan or finance a residential real estate transaction without proof of it.
+
+Auto Insurance:
+When you buy or lease a car, it’s important to protect that investment. Getting auto insurance can offer reassurance in case you’re involved in an accident or the vehicle is stolen, vandalized, or damaged by a natural disaster. Instead of paying out of pocket for auto accidents, people pay annual premiums to an auto insurance company; the company then pays all or most of the costs associated with an auto accident or other vehicle damage.
+
+Life Insurance:
+Life insurance is a contract between an insurer and a policy owner. A life insurance policy guarantees that the insurer pays a sum of money to named beneficiaries when the insured dies in exchange for the premiums paid by the policyholder during their lifetime.
+
+Travel Insurance:
+Travel insurance is a type of insurance that covers the costs and losses associated with traveling. It is useful protection for those traveling domestically or abroad. According to a 2021 survey by insurance company Battleface, almost half of Americans have faced fees or had to absorb the cost of losses when traveling without travel insurance.
+
+
+What Is Personal Injury Protection (PIP):
+Personal injury protection (PIP), also known as “no-fault insurance,” is a component of an automobile insurance plan that covers the healthcare expenses associated with a car accident. PIP covers medical expenses for both injured policyholders and passengers, even if some don’t have health insurance.If the cost of necessary medical care exceeds the auto insurance policy’s PIP limits, health insurance sometimes covers further expenses. Policies have a per-person maximum, meaning that coverage is limited to a certain amount per person if multiple people are injured in an accident.
+
+How Personal Injury Protection Works:
+Auto insurance requirements and features differ from state to state, and PIP coverage is available primarily in no-fault states. In a no-fault state, if a policyholder is injured in a car crash, that person's policy pays for the holder’s medical care regardless of who caused the accident. Policyholders with PIP coverage can receive benefits even if the other driver doesn’t have insurance.
+
+Example of Personal Injury Protection (PIP):
+For example, say you live in Florida, where you are required to have a minimum personal injury protection policy of $10,000. If you caused an accident that resulted in injuries to you that required medical treatment costing $15,000, your PIP would cover $10,000. If you purchased a plan with more coverage, your insurance would pay for expenses up to that limit. In contrast, liability insurance does not cover the cost of your medical bills if you were at-fault in an accident. It only covers expenses incurred by third-parties.
+
+What Is Underwriting:
+Underwriting is the process through which an individual or institution takes on financial risk for a fee. This risk most typically involves loans, insurance, or investments. The term underwriter originated from the practice of having each risk-taker write their name under the total amount of risk they were willing to accept for a specified premium.
+
+How Underwriting Works:
+Underwriting involves conducting research and assessing the degree of risk each applicant or entity brings to the table before assuming that risk. This check helps to set fair borrowing rates for loans, establish appropriate premiums to adequately cover the true cost of insuring policyholders, and create a market for securities by accurately pricing investment risk. If the risk is deemed too high, an underwriter may refuse coverage.Risk is the underlying factor in all underwriting. In the case of a loan, the risk has to do with whether the borrower will repay the loan as agreed or will default. With insurance, the risk involves the likelihood that too many policyholders will file claims at once. With securities, the risk is that the underwritten investments will not be profitable. underwriters evaluate loans, particularly mortgages, to determine the likelihood that a borrower will pay as promised and that enough collateral is available in the event of default. In the case of insurance, underwriters seek to assess a policyholder's health and other factors and spread the potential risk among as many people as possible. Underwriting securities, most often done via initial public offerings (IPOs), helps determine the company's underlying value compared to the risk of funding its IPO.
+
+
+Loan Underwriting:
+All loans undergo some form of underwriting. In many cases, underwriting is automated and involves appraising an applicant's credit history, financial records, and the value of any collateral offered, along with other factors that depend on the size and purpose of the loan. The appraisal process can take a few minutes to a few weeks, depending on whether the appraisal requires a human being to be involved. The most common type of loan underwriting that involves a human underwriter is for mortgages. This is also the type of loan underwriting that most people encounter. The underwriter assesses income, liabilities (debt), savings, credit history, credit score, and more depending on an individual's financial circumstances. Mortgage underwriting typically has a “turn time” of a week or less. Refinancing often takes longer because buyers who face deadlines get preferential treatment. Although loan applications can be approved, denied, or suspended, most are “approved with conditions,” meaning the underwriter wants clarification or additional documentation.
+
+Securities Underwriting:
+Securities underwriting, which seeks to assess risk and the appropriate price of particular securities—most often related to an IPO—is performed on behalf of a potential investor, often an investment bank. Based on the results of the underwriting process, an investment bank would buy (underwrite) securities issued by the company attempting the IPO and then sell those securities in the market. Underwriting ensures that the company's IPO will raise the capital needed and provides the underwriters with a premium or profit for their service. Investors benefit from the vetting process that underwriting provides and its ability to make an informed investment decision. This type of underwriting can involve individual stocks and debt securities, including government, corporate, or municipal bonds. Underwriters or their employers purchase these securities to resell them for a profit either to investors or dealers (who sell them to other buyers). When more than one underwriter or group of underwriters is involved, this is known as an underwriter syndicate.
+
+What Information Do Underwriters Look at:
+Whether they are lending money or providing insurance, underwriters examine the financials of each applicant to determine how much risk they are taking on and the likelihood of losing money. This is generally done by comparison to historical data: If applicants with a similar risk profile tend to default X% of the time, then the premiums or interest rate will be priced at a rate that assumes an X% probability of default. Underwriters for personal loans and insurance will look at the available data of the applicant. For loans, they might examine the borrower's income, employment status, and credit history. They will also assess the value of any assets that are used for collateral. For life insurance, they might also look at their medical history, including risk factors such as smoking or drinking. For securities, the underwriters will look at the financial situation of the issuer, such as their income statements, cash flow, debts, and any other potential liabilities, before pricing a bond or stock issue. They will also examine the issuer's credit rating, the institutional equivalent of a personal credit score.
+
+How Underwriting Sets the Market Price:
+Creating a fair and stable market for financial transactions is the chief function of an underwriter. Every debt instrument, insurance policy, or IPO carries a certain risk that the customer will default, file a claim, or fail—a potential loss to the insurer or lender. A big part of the underwriter's job is to weigh the known risk factors and investigate an applicant’s truthfulness to determine the minimum price for providing coverage. Underwriters help establish the true market price of risk by deciding on a case-by-case basis - which transactions they are willing to cover and what rates they need to charge to make a profit. Underwriters also help expose unacceptably risky applicants—such as unemployed people asking for expensive mortgages, those in poor health who request life insurance, or companies that attempt an IPO before they are ready—by rejecting coverage. This vetting function substantially lowers the overall risk of expensive claims or defaults. It allows loan officers, insurance agents, and investment banks to offer more competitive rates to those with less risky propositions.
+
+Where Did the Word Underwriting Come From:
+The term "underwrite" originates in the 17th century when marine vessels would be underwritten for insurance risk for overseas voyages. The insurance company would sub-scribe (literally to write underneath or under-write) the policy by signing their name at the bottom of the document and acknowledging consent that the policy is in force.
+
+What Is the Purpose of Underwriting Today:
+Underwriting, whether for an insurance policy or a loan, revaluates the riskiness of a proposed deal or agreement. For an insurer, the underwriter must determine the risk of a policyholder filing a claim that must be paid out before the policy has become profitable. For a lender, the risk is of default or non-payment. Similarly, securities underwriting by investment banks evaluate newly issued shares and bonds to determine their risk-adjusted value.
+
+Can an Underwriter Deny an Insurance Policy or Loan:
+Yes, if the riskiness of a borrower or insurance policy applicant is deemed too great, the underwriter can either recommend higher rates or else deny the application entirely - so long as they are not breaking any anti-discrimination laws and are only evaluating objective risk metrics.
+
+How Long Does the Underwriting Process Take:
+With the advent of information technology, the underwriting process for insurers and lenders has shortened from a matter of weeks or months to just a few days or even hours in some cases.
+
+What Are Underwriting Fees:
+Underwriting fees are monies collected by underwriters for performing underwriting services. Underwriters work in a variety of markets including investments, mortgages, and insurance. In each situation, the underwriter's job varies slightly, yet each collects underwriting fees in exchange for his or her underwriting services.
+
+How Underwriting Fees Work:
+In capital markets, underwriting fees are collected by underwriters who administer the issuing and distributing of certain financial instruments. When a company issues stock, bonds, or other publicly traded securities, for instance, it hires an underwriter. The issuing company and the underwriter work closely together to determine the price of an offering. After determining the offer structure, underwriters assemble a group of investment banks and brokerage firms that commit to selling a certain percentage of the offering. After an underwriting agreement is struck, the underwriter bears the risk of being unable to sell the underlying securities and the cost of holding them on its books until they can be sold. Once the underwriter knows it will sell all of the shares in the offering, it closes the offering by purchasing all the shares from the company (if the offering is a guaranteed offering), and the issuer receives the proceeds minus the underwriting fees, usually 3.5 to 7 percent of the amount of capital being raised. Underwriters or underwriter syndicates earn underwriting fees for doing three things: negotiating and managing the offering, assuming the risk of buying the securities (if nobody else will), and managing the sale of the shares.
+
+What Are Underwriting Expenses:
+Underwriting expenses are costs and expenditures associated with underwriting activity. Underwriting expenses include a wide range of expenditures, and the exact definition differs for insurers and investment banks. As a major expense category, the lower these expenditures are as a proportion of underwriting activity, the higher the profitability of the insurer or investment bank.
+
+What Is an Insurance Claim:
+An insurance claim is a formal request by a policyholder to an insurance company for coverage or compensation for a covered loss or policy event. The insurance company validates the claim (or denies the claim). If it is approved, the insurance company will issue payment to the insured or an approved interested party on behalf of the insured. Insurance claims cover everything from death benefits on life insurance policies to routine and comprehensive medical exams. In some cases, a third-party is able to file claims on behalf of the insured person. However, in the majority of cases, only the person(s) listed on the policy is entitled to claim payments.
+
+How an Insurance Claim Works:
+A paid insurance claim serves to indemnify a policyholder against financial loss. An individual or group pays premiums as consideration for the completion of an insurance contract between the insured party and an insurance carrier. The most common insurance claims involve costs for medical goods and services, physical damage, loss of life, liability for the ownership of dwellings (homeowners, landlords, and renters), and liability resulting from the operation of automobiles.
+
+
+Health Insurance Claims:
+Costs for surgical procedures or inpatient hospital stays remain prohibitively expensive. Individual or group health policies indemnify patients against financial burdens that may otherwise cause crippling financial damage. Health insurance claims filed with carriers by providers on behalf of policyholders require little effort from patients; the majority of medical are adjudicated electronically. Policyholders must file paper claims when medical providers do not participate in electronic transmittals but charges result from rendered covered services. Ultimately, an insurance claim protects an individual from the prospect of large financial burdens resulting from an accident or illness.
+
+Property and Casualty Claims:
+A house is typically one of the largest assets an individual will purchase in their lifetime. A claim filed for damage from covered perils is initially routed via the Internet to a representative of an insurer, commonly referred to as an agent or claims adjuster. unlike health insurance claims, the onus is on the policyholder to report damage to a deeded property they own. An adjuster, depending on the type of claim, inspects and assesses damage to property for payment to the insured. Upon verification of the damage, the adjuster initiates the process of compensating or reimbursing the insured.
+
+Life Insurance Claims:
+Life insurance claims require the submission of a claim form, a death certificate, and oftentimes the original policy. The process, especially for large face value policies, may require in-depth examination by the carrier to ensure that the death of the insured did not fall under a contract exclusion, such as suicide (usually excluded for the first few years after policy inception) or death resulting from a criminal act.
+
+Why Does Filing a Claim Increase Insurance Premiums:
+Sometimes, filing a claim can result in higher insurance premiums going forward. Although this is not always the case as some insurers will forgive the first accident, for example. Rate hikes following a claim are mainly due because the insurer will see you as a greater risk than before, and adjust the cost upwards accordingly. If you can prove that a claim was made where you were not at fault, you may be able to reverse such an increase. If you file too many claims over a very short period of time, the insurance company may not renew your policy regardless of fault.
+
+Should I File an Insurance Claim if the Damage Is Less than My Deductible:
+If the damage you experience is less than your deductible, it may not make sense to file a claim with your insurance company. For instance, if you have $200 in estimated damage, but a $1,000 deductible, it wouldn't make sense. If, however, you feel that the other party is entirely at fault and want their insurance to pay for your damage, you may want to initiate a claim nonetheless. It is a good idea to always talk with your insurance agent before filing a claim.
+
+How an Umbrella Insurance Policy Works:
+Chances are slim that you will lose a lawsuit for a sum greater than what your existing insurance will pay. But if you ever did find yourself in that situation, you could lose all your savings and other assets. A good umbrella policy can prevent that nightmare from happening. Umbrella insurance is a type of personal liability insurance that can cover claims in excess of the limits of your regular insurance policy. Below, we'll take a closer look at this extra liability coverage: how an umbrella policy works, who needs it, how much it costs and what it won’t cover.
+
+What Is Umbrella Insurance:
+Umbrella insurance is a type of personal liability insurance that can be indispensable when you find yourself liable for a claim larger than your homeowner's insurance or auto insurance will cover. If you own a boat, umbrella insurance will also pick up where your watercraft's liability insurance leaves off.
+
+Do You Need Umbrella Insurance:
+There’s certainly a fear factor involved in the decision to buy umbrella insurance. Many insurance companies say you need it because of the lawsuit-happy world we live in, where anyone can sue you for anything and ruin you financially. You can find plenty of personal liability horror stories in the news, where juries awarded multimillion-dollar judgments to the victims that individuals had to pay. But how likely are you to find yourself in such a situation? Do you really need umbrella insurance?
+
+Extra Coverage That Protects Your Assets:
+You might hear that you should purchase umbrella insurance if the total value of your assets, including ordinary checking and savings accounts, retirement and college savings and investment accounts, and home equity is greater than the limits of your auto or homeowner's liability. The idea behind this advice is that you want to have enough liability insurance to fully cover your assets so that you can’t lose them in a lawsuit.However, jury awards can easily exceed insurance policy limits. The real question you should ask yourself is, am I at risk of being sued? Everyone is, so in a sense, umbrella insurance makes sense for everyone. It’s a small price to pay for the extra peace of mind.
+
+Option for Those With High Risk Potential:
+Some people are more likely to need an umbrella policy than others. If you engage in some activity that puts you at greater risk of incurring excess liability, then you’re a good candidate for an umbrella policy. Personal liability risk factors include owning property, renting it out, employing household staff, having a trampoline or hot tub, hosting large parties, and being a well-known public figure. Having a teenage driver in the family also puts you at increased risk, as does owning a dog or owning a home with a swimming pool. Basically, the more likely you are to be sued, the more strongly you should consider purchasing umbrella insurance. But anyone who is risk-averse will sleep better at night knowing they’re protected by an umbrella policy.
+
+
+
